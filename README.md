@@ -14,7 +14,7 @@
 - :student: Siempre en constante aprendizaje `Backend` , `Frontend` y `Database`.
 - :nerd_face: Lenguajes `C#` `Java Script` `Type Script` `Visual Basic`.
 - :thinking: Actualmente busco trabajo `job opportunity`, este es mi CV [MY RESUME](http://lnkiy.in``/Ahmed_Hossam_Resume).
-- :boom: Podes visitar mi [Mi pagina web]((https://cv-online-two.vercel.app/)).
+- :boom: Podes visitar mi [Mi pagina web](https://cv-online-two.vercel.app/).
 <br>
 
 
