@@ -2,8 +2,6 @@
 <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Software;Estudiante+de+Ingeniería+Informática;Desarrollador+Full+Stack;Entusiasta+de+.NET+y+Angular;Siempre+aprendiendo+nuevas+tecnologías"></a> </p>
 
 
-<br>
-	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -16,7 +14,7 @@
 - :student: Siempre en constante aprendizaje `Backend` , `Frontend` y `Database`.
 - :nerd_face: Lenguajes `C#` `Java Script` `Type Script` `Visual Basic`.
 - :thinking: Actualmente busco trabajo `job opportunity`, este es mi CV [MY RESUME](http://lnkiy.in``/Ahmed_Hossam_Resume).
-- :boom: Podes visitar mi [Mi pagina web]([https://cutt.ly/Ahmed_Hossam_Website](https://cv-online-two.vercel.app/)).
+- :boom: Podes visitar mi [Mi pagina web]((https://cv-online-two.vercel.app/)).
 <br>
 
 
