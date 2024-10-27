@@ -14,14 +14,14 @@
 - :student: Siempre en constante aprendizaje `Backend` , `Frontend` y `Database`.
 - :nerd_face: Lenguajes `C#` `Java Script` `Type Script` `Visual Basic`.
 - :thinking: Actualmente busco trabajo `job opportunity`, este es mi CV [MY RESUME](http://lnkiy.in``/Ahmed_Hossam_Resume).
-- :boom: Podes visitar mi [Mi pagina web](https://cv-online-two.vercel.app/).
+- :boom: Podes visitar mi [Mi pagina web](https://cv-online-two.vercel.app/) o hablarme al celular 01167376427.
 <br>
 
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contactarme!
 <p align="center">
-	<a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbtsNdWwLsJbSVdsZzwMNcmkmTBdHtvzDtqSgzWtqRWgDhFtdSgknvPSkLWMVmwkqJQGzp"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/EzequielCansler?tab=repositories"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ezequiel-cansler-462840288/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
