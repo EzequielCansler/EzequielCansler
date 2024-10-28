@@ -13,7 +13,7 @@
 - :computer: Tecnologias `.NET 4.8`, `.NET core 8 MVC`, `Angular TS`, `React JS`, `SQL server`, `Node JS`.
 - :student: Siempre en constante aprendizaje `Backend` , `Frontend` y `Database`.
 - :nerd_face: Lenguajes `C#` `Java Script` `Type Script` `Visual Basic`.
-- :thinking: Actualmente busco trabajo `job opportunity`, este es mi CV [MY RESUME](http://lnkiy.in``/Ahmed_Hossam_Resume).
+- :thinking: Actualmente busco trabajo `job opportunity`, este es mi CV [MY RESUME](https://drive.google.com/file/d/1i0RtApy7UIz1G46M2ZFEi_lFCb_Ys-86/view?usp=sharing).
 - :boom: Podes visitar mi [Mi pagina web](https://cv-online-two.vercel.app/) o hablarme al celular 01167376427.
 <br>
 
