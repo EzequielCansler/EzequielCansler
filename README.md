@@ -8,9 +8,9 @@
 
 <br><br>
 
-- :school: Estudiante de Ingenieria en informatica de 3er año en la Universidad nacional de la Matanza.
+- :school: Estudiante de Ingenieria en informatica de 2do año en la Universidad nacional de la Matanza.
 - :technologist: Programador Jr Full stack especializado en el backend `.NET`.
-- :computer: Tecnologias `.NET 4.8`, `.NET core 8 MVC`, `Angular TS`, `React JS`, `SQL server`, `Node JS`.
+- :computer: Tecnologias `.NET 4.8 C#`, `.NET 8 MVC C#`,`WindForms VB`, `Angular TS`, `React JS`, `SQL server`, `Node JS`.
 - :student: Siempre en constante aprendizaje `Backend` , `Frontend` y `Database`.
 - :nerd_face: Lenguajes `C#` `Java Script` `Type Script` `Visual Basic`.
 - :thinking: Actualmente busco trabajo `job opportunity`, este es mi CV [MY RESUME](https://drive.google.com/file/d/13nmaTgBSfNjZqgGUGB2a3lENhaa8RzZk/view?usp=sharing).
